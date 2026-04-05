@@ -1,0 +1,10 @@
+torch>=2.0
+mmengine>=0.10.0
+smplx
+pin
+numpy
+scipy
+joblib
+gradio>=4.0
+plotly
+huggingface_hub

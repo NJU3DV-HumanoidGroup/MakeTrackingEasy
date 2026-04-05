@@ -1,0 +1,19 @@
+# Large model files (auto-downloaded from HuggingFace Hub on first run)
+weights/epoch_30.pth
+assets/SMPLX_NEUTRAL.npz
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Outputs
+output/
+*.pkl
+!examples/*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
